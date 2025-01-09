@@ -1,5 +1,3 @@
-Here's an expanded summary of Terraform with more details and emojis:
-
 🌍 **What is Terraform?**  
 Terraform is an **open-source tool** used for **Infrastructure as Code (IaC)** to provision, manage, and scale cloud infrastructure in a **consistent, repeatable** way.
 
